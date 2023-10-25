@@ -33,7 +33,7 @@ Scapy tries to overcome those problems. It enables you to build exactly the pack
 
 In fact, it's like building a new tool each time, but instead of dealing with a hundred line C program, you only write 2 lines of Scapy.
 
-After a probe (scan, traceroute, etc.) Scapy always gives you the full decoded packets from the probe, before any interpretation. That means that you can probe once and interpret many times. Ask for a traceroute and look at the padding for instance.
+After a probe (scan, traceroute, etc.) Scapy always gives you the full decoded packets from the probe, before any interpretation. That means that you can probe once and interpret many times. Ask for a traceroute and look at the padding, for instance.
 
 Fast packet design
 ------------------
